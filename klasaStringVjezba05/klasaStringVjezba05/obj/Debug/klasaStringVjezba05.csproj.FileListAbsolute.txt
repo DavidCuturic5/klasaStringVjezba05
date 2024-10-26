@@ -1,0 +1,7 @@
+C:\Users\Gigabyte\source\repos\klasaStringVjezba05\klasaStringVjezba05\obj\Debug\klasaStringVjezba05.csproj.AssemblyReference.cache
+C:\Users\Gigabyte\source\repos\klasaStringVjezba05\klasaStringVjezba05\obj\Debug\klasaStringVjezba05.csproj.CoreCompileInputs.cache
+C:\Users\Gigabyte\source\repos\klasaStringVjezba05\klasaStringVjezba05\bin\Debug\klasaStringVjezba05.exe.config
+C:\Users\Gigabyte\source\repos\klasaStringVjezba05\klasaStringVjezba05\bin\Debug\klasaStringVjezba05.exe
+C:\Users\Gigabyte\source\repos\klasaStringVjezba05\klasaStringVjezba05\bin\Debug\klasaStringVjezba05.pdb
+C:\Users\Gigabyte\source\repos\klasaStringVjezba05\klasaStringVjezba05\obj\Debug\klasaStringVjezba05.exe
+C:\Users\Gigabyte\source\repos\klasaStringVjezba05\klasaStringVjezba05\obj\Debug\klasaStringVjezba05.pdb
